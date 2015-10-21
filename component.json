@@ -1,0 +1,11 @@
+{
+    "version": "1.0.0",
+    "repos": "https://github.com/hqlcs/regedit",
+    "protocol":"github:hqlcs/regedit",
+    "description": "A regedit",
+    "name": "regedit",
+    "main": "regedit.js",
+    "dependencies" : [
+    	"github:hqlcs/validate"
+    ]
+}
